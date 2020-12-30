@@ -1,0 +1,31 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 22px;
+    background-color: black;
+    color: seashell;
+
+}
+
+header {
+    display: inline-flex;
+}
+
+.logo {
+    font-family: 'Lexend Mega', sans-serif;
+    font-size: 2rem;
+    text-decoration: none;
+    padding: 0.5rem ;
+}
+
+a:link, a:visited {
+    color: seashell;
+    text-decoration: underline;
+}
+
+a:hover, a:active {
+    color: seashell;
+}
+
+header .container nav {
+    align-content: space-between;
+}

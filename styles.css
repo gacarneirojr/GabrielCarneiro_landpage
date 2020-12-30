@@ -7,7 +7,11 @@ body {
 }
 
 header {
-    display: inline-flex;
+    display: flex;
+    align-items: center;
+    place-content: space-between;
+    margin-left: 1rem;
+
 }
 
 .logo {
@@ -27,5 +31,12 @@ a:hover, a:active {
 }
 
 header .container nav {
-    align-content: space-between;
+    padding: 0.5rem;
+}
+
+.banner {
+    background-image: url("https://www.psdgraphics.com/file/black-and-white-abstract.jpg");
+    height: 34.54rem;
+    width: 96rem;
+    object-fit: cover;
 }

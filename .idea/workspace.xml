@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="finishing banner">
+    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="working on portfolio">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
@@ -53,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609352790259</updated>
       <workItem from="1609352791406" duration="7800000" />
-      <workItem from="1609360975938" duration="268000" />
+      <workItem from="1609360975938" duration="1122000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;working on nav header&quot;">
       <created>1609354999862</created>
@@ -76,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609359969447</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="working on portfolio">
+      <created>1609361419760</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609361419760</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +106,7 @@
     <MESSAGE value="&quot;working on nav header&quot;" />
     <MESSAGE value="&quot;banner&quot;" />
     <MESSAGE value="finishing banner" />
-    <option name="LAST_COMMIT_MESSAGE" value="finishing banner" />
+    <MESSAGE value="working on portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="working on portfolio" />
   </component>
 </project>

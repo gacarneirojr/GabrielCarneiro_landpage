@@ -56,6 +56,10 @@ header .container nav {
     color: black;
 }
 
+#portfolio {
+    text-align: center;
+}
+
 #port {
     text-align: center;
 }
@@ -73,6 +77,19 @@ header .container nav {
     padding: 2rem;
     margin: 4rem;
     border: solid 1px white;
-
-
+    flex-grow: 1;
+    flex-shrink: 1;
 }
+
+@media only screen and (max-width: 500px) {
+    .portfolio {
+        display: block;
+    }
+
+    .portfolio div {
+        margin: 2rem;
+    }
+}
+
+
+

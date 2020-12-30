@@ -14,6 +14,12 @@ header {
 
 }
 
+@media(max-width: 500px) {
+    header {
+        display: block;
+    }
+}
+
 .logo {
     font-family: 'Lexend Mega', sans-serif;
     font-size: 2rem;
@@ -37,6 +43,17 @@ header .container nav {
 .banner {
     background-image: url("https://www.psdgraphics.com/file/black-and-white-abstract.jpg");
     height: 34.54rem;
-    width: 96rem;
-    object-fit: cover;
+    background-size: cover;
+    object-fit: contain;
+    max-width: 100%;
+    display: flex;
+    place-content: center;
+    place-items: center;
+}
+
+.banner h1 {
+    background-color: seashell;
+    color: black;
+
+
 }

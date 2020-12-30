@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="&quot;working on nav header&quot;">
+    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="&quot;banner&quot;">
+      <change afterPath="$PROJECT_DIR$/img/skill-Javascript-shield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/skill-Redux.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/skill-css3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/skill-git.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/skill-html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/skill-node.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
@@ -25,12 +31,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mO7TO7oC6Tk2E8SAq3NVErxsWx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -49,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609352790259</updated>
-      <workItem from="1609352791406" duration="5063000" />
+      <workItem from="1609352791406" duration="6846000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;working on nav header&quot;">
       <created>1609354999862</created>
@@ -58,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609354999862</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;banner&quot;">
+      <created>1609357975443</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609357975443</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,7 +92,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="&quot;working on nav header&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;working on nav header&quot;" />
+    <MESSAGE value="&quot;banner&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;banner&quot;" />
   </component>
 </project>

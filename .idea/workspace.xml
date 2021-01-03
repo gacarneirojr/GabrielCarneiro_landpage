@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="working on portfolio">
+    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="500px screen set for portfolio">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
@@ -37,7 +37,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -53,7 +52,12 @@
       <option name="presentableId" value="Default" />
       <updated>1609352790259</updated>
       <workItem from="1609352791406" duration="7800000" />
-      <workItem from="1609360975938" duration="1122000" />
+      <workItem from="1609360975938" duration="3993000" />
+      <workItem from="1609410835462" duration="63000" />
+      <workItem from="1609603811718" duration="579000" />
+      <workItem from="1609604580394" duration="1411000" />
+      <workItem from="1609696173422" duration="1431000" />
+      <workItem from="1609697694342" duration="1160000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;working on nav header&quot;">
       <created>1609354999862</created>
@@ -83,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609361419760</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="500px screen set for portfolio">
+      <created>1609362134447</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609362134447</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +118,7 @@
     <MESSAGE value="&quot;banner&quot;" />
     <MESSAGE value="finishing banner" />
     <MESSAGE value="working on portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="working on portfolio" />
+    <MESSAGE value="500px screen set for portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="500px screen set for portfolio" />
   </component>
 </project>

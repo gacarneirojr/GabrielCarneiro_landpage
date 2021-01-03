@@ -102,38 +102,45 @@ nav a {
 
 .skill {
     text-align: center;
+    background-color: seashell;
+    color: black;
+}
 
+.skill h2 {
+    padding: 2rem;
 }
 
 .grid2 {
     display: flex;
     font-size: 2rem;
     flex-wrap: wrap;
-    flex-grow: 2;
-    flex-shrink: 2;
-
-
 }
 
 .grid2 img {
     height: 10rem;
     width: 20rem;
-
 }
 
-.html .css .js .node .redux .git {
+.html .css .js .node .redux .git div {
     width: 20rem;
     height: 12rem;
-
-
-
 }
+
 .grid2 div {
     padding: 2rem;
-    margin: 1.25rem;
     margin: auto;
 }
 
+footer .logo {
+    text-align: center;
+    margin: 2rem;
+}
 
+footer .info {
+    text-align: center;
+    margin: 5rem;
+}
 
-
+.copy {
+    text-align: center;
+}

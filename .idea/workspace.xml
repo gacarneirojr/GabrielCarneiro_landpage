@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="500px screen set for portfolio">
+    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="header fixed&#10;.grid split">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
@@ -57,7 +57,7 @@
       <workItem from="1609603811718" duration="579000" />
       <workItem from="1609604580394" duration="1411000" />
       <workItem from="1609696173422" duration="1431000" />
-      <workItem from="1609697694342" duration="1160000" />
+      <workItem from="1609697694342" duration="2187000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;working on nav header&quot;">
       <created>1609354999862</created>
@@ -94,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609362134447</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="header fixed&#10;.grid split">
+      <created>1609698949036</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609698949036</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +126,7 @@
     <MESSAGE value="finishing banner" />
     <MESSAGE value="working on portfolio" />
     <MESSAGE value="500px screen set for portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="500px screen set for portfolio" />
+    <MESSAGE value="header fixed&#10;.grid split" />
+    <option name="LAST_COMMIT_MESSAGE" value="header fixed&#10;.grid split" />
   </component>
 </project>

@@ -70,16 +70,15 @@ nav a {
 }
 
 .grid {
-    max-width: 80rem;
     display: flex;
+    max-width: 80rem;
     font-size: 15rem;
     place-content: center;
     place-items: center;
     text-align: center;
     flex-wrap: wrap;
     align-content: space-between;
-
-
+    margin: auto;
 }
 
 
@@ -107,11 +106,13 @@ nav a {
 }
 
 .grid2 {
-    font-size: 2rem;
     display: flex;
+    font-size: 2rem;
     flex-wrap: wrap;
     flex-grow: 2;
     flex-shrink: 2;
+
+
 }
 
 .grid2 img {
@@ -123,9 +124,16 @@ nav a {
 .html .css .js .node .redux .git {
     width: 20rem;
     height: 12rem;
-    padding: 2rem;
-    margin: 4rem;
+
+
 
 }
+.grid2 div {
+    padding: 2rem;
+    margin: 1.25rem;
+    margin: auto;
+}
+
+
 
 

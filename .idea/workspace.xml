@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="portfolio updated">
-      <change beforePath="$PROJECT_DIR$/img/portfolio-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio-3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio-4.png" afterDir="false" />
+    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="images compacted">
+      <change afterPath="$PROJECT_DIR$/img/black-and-white-abstract-background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
       <workItem from="1609696173422" duration="1431000" />
       <workItem from="1609697694342" duration="3331000" />
       <workItem from="1609760292429" duration="971000" />
-      <workItem from="1609869912833" duration="3042000" />
+      <workItem from="1609869912833" duration="3588000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;working on nav header&quot;">
       <created>1609354999862</created>
@@ -131,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609872647395</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="images compacted">
+      <created>1609873511983</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1609873511983</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +168,7 @@
     <MESSAGE value="need some future improvements" />
     <MESSAGE value="final version" />
     <MESSAGE value="portfolio updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="portfolio updated" />
+    <MESSAGE value="images compacted" />
+    <option name="LAST_COMMIT_MESSAGE" value="images compacted" />
   </component>
 </project>

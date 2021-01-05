@@ -39,7 +39,7 @@ nav a {
 }
 
 .banner {
-    background-image: url("img/black-and-white-abstract-background.jpg");
+    background-image: url("../img/black-and-white-abstract-background.jpg");
     height: 34.54rem;
     background-size: cover;
     object-fit: contain;
@@ -99,7 +99,7 @@ nav a {
 
 
 #amae {
-    background-image: url("img/portfolio-1.png");
+    background-image: url("../img/portfolio-1.png");
     background-size: cover;
     width: 22.73rem;
     height: 13.64rem;
@@ -108,7 +108,7 @@ nav a {
 }
 
 #photomatic {
-    background-image: url("img/portfolio-2.png");
+    background-image: url("../img/portfolio-2.png");
     background-size: cover;
     width: 22.73rem;
     height: 13.64rem;
@@ -117,7 +117,7 @@ nav a {
 }
 
 #tea {
-    background-image: url("img/portfolio-3.png");
+    background-image: url("../img/portfolio-3.png");
     background-size: cover;
     width: 22.73rem;
     height: 13.64rem;
@@ -126,7 +126,7 @@ nav a {
 }
 
 #aprisco {
-    background-image: url("img/portfolio-4.png");
+    background-image: url("../img/portfolio-4.png");
     background-size: cover;
     width: 22.73rem;
     height: 13.64rem;
@@ -137,6 +137,7 @@ nav a {
     text-align: center;
     background-color: seashell;
     color: black;
+
 }
 
 .skill h2 {
@@ -144,6 +145,20 @@ nav a {
 }
 
 .grid2 {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-bottom: 2rem;
+}
+
+.grid2  > * {
+    font-size: 2em;
+    width: 2em;
+
+}
+
+/*.grid2 {
     display: flex;
     font-size: 2rem;
     flex-wrap: wrap;
@@ -154,6 +169,7 @@ nav a {
     width: 20rem;
 }
 
+!*
 .html .css .js .node .redux .git div {
     width: 20rem;
     height: 12rem;
@@ -163,6 +179,7 @@ nav a {
     padding: 2rem;
     margin: auto;
 }
+*!*/
 
 footer .logo {
     text-align: center;
@@ -170,8 +187,8 @@ footer .logo {
 }
 
 footer .info {
-    padding-top: 3rem;
-    padding-bottom: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
     text-align: center;
     margin: auto;
 }

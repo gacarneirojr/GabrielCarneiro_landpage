@@ -1,9 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="social media and resize portfolio 1">
+    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="target=&quot;_blank&quot; to portfolio">
+      <change afterPath="$PROJECT_DIR$/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/svg-with-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/svg-with-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +92,9 @@
       <workItem from="1609697694342" duration="3331000" />
       <workItem from="1609760292429" duration="971000" />
       <workItem from="1609869912833" duration="4140000" />
-      <workItem from="1609874653851" duration="28000" />
+      <workItem from="1609874653851" duration="3560000" />
+      <workItem from="1609888991893" duration="1291000" />
+      <workItem from="1609890305178" duration="185000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;working on nav header&quot;">
       <created>1609354999862</created>
@@ -159,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609874505148</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="target=&quot;_blank&quot; to portfolio">
+      <created>1609874720481</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1609874720481</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +234,7 @@
     <MESSAGE value="images compacted" />
     <MESSAGE value="compact banner" />
     <MESSAGE value="social media and resize portfolio 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="social media and resize portfolio 1" />
+    <MESSAGE value="target=&quot;_blank&quot; to portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="target=&quot;_blank&quot; to portfolio" />
   </component>
 </project>

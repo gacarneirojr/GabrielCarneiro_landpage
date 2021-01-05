@@ -180,3 +180,8 @@ footer .info {
     margin-top: 4rem;
     text-align: center;
 }
+
+.info a {
+    display: block;
+    margin: 1rem;
+}

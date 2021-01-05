@@ -96,6 +96,43 @@ nav a {
     }
 }
 
+
+
+#amae {
+    background-image: url("img/portfolio-1.png");
+    background-size: cover;
+    width: 22.73rem;
+    height: 13.64rem;
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+
+#photomatic {
+    background-image: url("img/portfolio-2.png");
+    background-size: cover;
+    width: 22.73rem;
+    height: 13.64rem;
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+
+#tea {
+    background-image: url("img/portfolio-3.png");
+    background-size: cover;
+    width: 22.73rem;
+    height: 13.64rem;
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+
+#aprisco {
+    background-image: url("img/portfolio-4.png");
+    background-size: cover;
+    width: 22.73rem;
+    height: 13.64rem;
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
 .skill {
     text-align: center;
     background-color: seashell;

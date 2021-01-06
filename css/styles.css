@@ -158,29 +158,6 @@ nav a {
 
 }
 
-/*.grid2 {
-    display: flex;
-    font-size: 2rem;
-    flex-wrap: wrap;
-}
-
-.grid2 img {
-    height: 10rem;
-    width: 20rem;
-}
-
-!*
-.html .css .js .node .redux .git div {
-    width: 20rem;
-    height: 12rem;
-}
-
-.grid2 div {
-    padding: 2rem;
-    margin: auto;
-}
-*!*/
-
 .experience {
     background-color: lightslategray;
     display: flex;

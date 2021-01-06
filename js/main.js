@@ -27,40 +27,27 @@ hoverAll[2].onmouseout = function () {mouseOut(hoverAll[2])};
 hoverAll[3].onmouseover = function () {hoover(hoverAll[3])};
 hoverAll[3].onmouseout = function () {mouseOut(hoverAll[3])};
 
-/* Change the names in Contact section on hover */
+/* Zoom-in on hover of contacts icons */
 
 let github = document.getElementById('github')
 
-let change1 = (b) => {
-    b.innerHTML = 'github.com/gacarneirojr';
-}
-let undo1 = (b) => {
-    b.innerHTML = 'github';
-}
+let change = (b) => {
+    b.style.transform = 'scale(2)';
+    b.style.transition = 'all .5s';
 
-github.onmouseover = function () {change1(github)};
-github.onmouseout = function () {undo1(github)};
-
-let linkedin = document.getElementById('linkedin')
-
-let change2 = (b) => {
-    b.innerHTML = 'linkedin.com/in/gabriel-araujo-carneiro-junior-618770102/'
 }
-let undo2 = (b) => {
-    b.innerHTML = 'linkedin';
+let undo = (b) => {
+    b.style.transform = 'scale(1)';
+    b.style.transition = 'all .3s';
 }
 
-linkedin.onmouseover = function () {change2(linkedin)};
-linkedin.onmouseout = function () {undo2(linkedin)};
+github.onmouseover = function () {change(github)};
+github.onmouseout = function () {undo(github)};
 
-let email = document.getElementById('email')
+linkedin.onmouseover = function () {change(linkedin)};
+linkedin.onmouseout = function () {undo(linkedin)};
 
-let change3 = (b) => {
-    b.innerHTML = 'gacarneirojrx@gmail.com'
-}
-let undo3 = (b) => {
-    b.innerHTML = 'e-mail';
-}
+email.onmouseover = function () {change(email)};
+email.onmouseout = function () {undo(email)};
 
-email.onmouseover = function () {change3(email)};
-email.onmouseout = function () {undo3(email)};
+

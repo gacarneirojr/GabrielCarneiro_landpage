@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="changes on contact area - changing innerHTML javaScript">
-      <change afterPath="$PROJECT_DIR$/img/codecademypro.png" afterDir="false" />
+    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="experience added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -66,7 +65,8 @@
       <workItem from="1609874653851" duration="3560000" />
       <workItem from="1609888991893" duration="1291000" />
       <workItem from="1609890305178" duration="876000" />
-      <workItem from="1609937666395" duration="14931000" />
+      <workItem from="1609937666395" duration="16151000" />
+      <workItem from="1609970281575" duration="1195000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;working on nav header&quot;">
       <created>1609354999862</created>
@@ -215,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609952652949</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="experience added">
+      <created>1609968990621</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1609968990621</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +262,7 @@
     <MESSAGE value="slide in jquery aded" />
     <MESSAGE value="slide in jquery added" />
     <MESSAGE value="changes on contact area - changing innerHTML javaScript" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes on contact area - changing innerHTML javaScript" />
+    <MESSAGE value="experience added" />
+    <option name="LAST_COMMIT_MESSAGE" value="experience added" />
   </component>
 </project>

@@ -206,7 +206,12 @@ nav a {
 
 footer .logo {
     text-align: center;
-    margin: 2rem;
+    margin-top: 2rem;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
 }
 
 footer .info {
@@ -216,8 +221,8 @@ footer .info {
     margin: auto;
 }
 
-.copy {
-    margin-top: 4rem;
+small .copy {
+    margin-top: 1rem;
     text-align: center;
 }
 

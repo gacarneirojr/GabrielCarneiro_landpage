@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="font awesome added to skills">
+    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="target blank on contact and email link - about removed">
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -17,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -62,7 +64,7 @@
       <workItem from="1609874653851" duration="3560000" />
       <workItem from="1609888991893" duration="1291000" />
       <workItem from="1609890305178" duration="876000" />
-      <workItem from="1609937666395" duration="155000" />
+      <workItem from="1609937666395" duration="4550000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;working on nav header&quot;">
       <created>1609354999862</created>
@@ -176,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609890551447</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="target blank on contact and email link - about removed">
+      <created>1609937827914</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1609937827914</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +220,7 @@
     <MESSAGE value="social media and resize portfolio 1" />
     <MESSAGE value="target=&quot;_blank&quot; to portfolio" />
     <MESSAGE value="font awesome added to skills" />
-    <option name="LAST_COMMIT_MESSAGE" value="font awesome added to skills" />
+    <MESSAGE value="target blank on contact and email link - about removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="target blank on contact and email link - about removed" />
   </component>
 </project>

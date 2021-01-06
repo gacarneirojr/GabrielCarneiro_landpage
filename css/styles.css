@@ -137,11 +137,11 @@ nav a {
     text-align: center;
     background-color: seashell;
     color: black;
-
+    padding: 2rem;
 }
 
 .skill h2 {
-    padding: 2rem;
+    padding-bottom: 2rem;
 }
 
 .grid2 {
@@ -180,6 +180,29 @@ nav a {
     margin: auto;
 }
 *!*/
+
+.experience {
+    background-color: lightslategray;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 2rem;
+}
+
+.experience h2 {
+    padding-bottom: 2rem;
+}
+
+.experience p {
+    margin-top: 0.5rem;
+}
+
+#codeimg {
+    width: 10rem;
+    height: auto;
+    align-self: center;
+    padding-bottom: 0.5rem;
+}
 
 footer .logo {
     text-align: center;

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="slide in jquery added">
+    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="changes on contact area - changing innerHTML javaScript">
+      <change afterPath="$PROJECT_DIR$/img/codecademypro.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
@@ -64,7 +66,7 @@
       <workItem from="1609874653851" duration="3560000" />
       <workItem from="1609888991893" duration="1291000" />
       <workItem from="1609890305178" duration="876000" />
-      <workItem from="1609937666395" duration="8953000" />
+      <workItem from="1609937666395" duration="14931000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;working on nav header&quot;">
       <created>1609354999862</created>
@@ -206,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609951787986</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="changes on contact area - changing innerHTML javaScript">
+      <created>1609952652949</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1609952652949</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,6 +254,7 @@
     <MESSAGE value="javaScript added to mouseOver and mouseOut portfolio" />
     <MESSAGE value="slide in jquery aded" />
     <MESSAGE value="slide in jquery added" />
-    <option name="LAST_COMMIT_MESSAGE" value="slide in jquery added" />
+    <MESSAGE value="changes on contact area - changing innerHTML javaScript" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes on contact area - changing innerHTML javaScript" />
   </component>
 </project>

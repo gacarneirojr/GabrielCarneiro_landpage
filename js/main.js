@@ -1,7 +1,6 @@
-let hover1 = document.getElementById("amae");
-let hover2 = document.getElementById("photomatic");
-let hover3 = document.getElementById("tea");
-let hover4 = document.getElementById("aprisco");
+/* To zoom in the projects miniatures on mouseover and mouseout*/
+
+let hoverAll = document.getElementsByClassName('gridEl');
 
 
 let hoover = (a) => {
@@ -16,17 +15,19 @@ let mouseOut = (a) => {
     a.style.border = ''
 }
 
-hover1.onmouseover = function () {hoover(hover1)};
-hover1.onmouseout = function () {mouseOut(hover1)};
+hoverAll[0].onmouseover = function () {hoover(hoverAll[0])};
+hoverAll[0].onmouseout = function () {mouseOut(hoverAll[0])};
 
-hover2.onmouseover = function () {hoover(hover2)};
-hover2.onmouseout = function () {mouseOut(hover2)};
+hoverAll[1].onmouseover = function () {hoover(hoverAll[1])};
+hoverAll[1].onmouseout = function () {mouseOut(hoverAll[1])};
 
-hover3.onmouseover = function () {hoover(hover3)};
-hover3.onmouseout = function () {mouseOut(hover3)};
+hoverAll[2].onmouseover = function () {hoover(hoverAll[2])};
+hoverAll[2].onmouseout = function () {mouseOut(hoverAll[2])};
 
-hover4.onmouseover = function () {hoover(hover4)};
-hover4.onmouseout = function () {mouseOut(hover4)};
+hoverAll[3].onmouseover = function () {hoover(hoverAll[3])};
+hoverAll[3].onmouseout = function () {mouseOut(hoverAll[3])};
+
+/* Change the names in Contact section on hover */
 
 let github = document.getElementById('github')
 

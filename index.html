@@ -9,6 +9,12 @@
     <link rel="stylesheet" href="./css/reset.css">
     <link rel="stylesheet" href="./css/styles.css">
     <link rel="stylesheet" href="./css/all.min.css">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+            integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+            crossorigin="anonymous">
+    </script>
+    <link href="slidein.css" rel="stylesheet" />
+    <script src="slideIn.js" type="text/javascript"></script>
     <script src="js/main.js" async></script>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Lexend+Mega&family=Roboto+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
@@ -33,7 +39,7 @@
                 <h1>let learning = => {<br>to += value; <br> }</h1>
             </div>
         </section>
-        <section id="portfolio">
+        <section id="portfolio" class="js-slidein">
             <h2 id="port">Portfolio</h2>
             <div class="grid">
                 <a href="https://gacarneirojr.github.io/Amae/" target="_blank"><div id="amae"></div></a>
@@ -42,7 +48,7 @@
                 <a href="https://gacarneirojr.github.io/aprisco/" target="_blank"> <div id="aprisco"></div></a>
             </div>
         </section>
-        <section class="skill" id="skill">
+        <section class="skill js-slidein" id="skill">
             <h2 >Skills</h2>
             <div class="grid2">
                 <i class="fab fa-html5"></i>
@@ -87,7 +93,7 @@
             </div>
         </section>
     </main>
-    <footer>
+    <footer class="js-slidein">
         <div class="logo" id="contact">
             <a href="">GabrielC</a>
         </div>

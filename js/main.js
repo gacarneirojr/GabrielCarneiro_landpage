@@ -1,4 +1,3 @@
-
 let hover1 = document.getElementById("amae");
 let hover2 = document.getElementById("photomatic");
 let hover3 = document.getElementById("tea");
@@ -26,3 +25,10 @@ hover3.onmouseout = function () {mouseOut(hover3)};
 
 hover4.onmouseover = function () {hoover(hover4)};
 hover4.onmouseout = function () {mouseOut(hover4)};
+
+
+/*
+let hoverAll = document.querySelectorAll('.grid')
+
+hoverAll.onmouseover = function () {hoover(hoverAll)};
+hoverAll.onmouseout = function () {mouseOut(hoverAll)};*/

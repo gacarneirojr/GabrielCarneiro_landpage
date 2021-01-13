@@ -27,6 +27,7 @@ a:link, a:visited {
 
 a:hover, a:active {
     color: seashell;
+    border: 2px solid yellow;
 }
 
 header .container nav {
@@ -188,22 +189,43 @@ footer .logo {
 
 .contact {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    place-items: center;
+    place-content: center;
 }
 
-footer .info {
+.social {
+    display: flex;
+}
+
+.info {
+    display: flex;
     padding-top: 2rem;
     padding-bottom: 1rem;
-    text-align: center;
-    margin: auto;
+    justify-content: center;
+    width: 100%;
+}
+
+.social a {
+    margin: 1rem;
+}
+
+.phone {
+    margin: 0.3rem;
+}
+
+.photo {
+    margin-left: 10rem;
+}
+
+.photo img {
+    object-fit: cover;
+    border-radius: 50%;
+    height: 15rem;
+    width: auto;
 }
 
 small .copy {
     margin-top: 1rem;
     text-align: center;
-}
-
-.info a {
-    display: block;
-    margin: 1rem;
 }

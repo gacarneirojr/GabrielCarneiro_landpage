@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="unused photos deleted">
+    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="target blank whats app">
+      <change afterPath="$PROJECT_DIR$/img/photo.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +68,10 @@
       <workItem from="1609890305178" duration="876000" />
       <workItem from="1609937666395" duration="16151000" />
       <workItem from="1609970281575" duration="1661000" />
-      <workItem from="1609982539039" duration="33000" />
+      <workItem from="1609982539039" duration="122000" />
+      <workItem from="1610013810895" duration="142000" />
+      <workItem from="1610023481159" duration="108000" />
+      <workItem from="1610540280305" duration="7730000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;working on nav header&quot;">
       <created>1609354999862</created>
@@ -235,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609971799253</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="target blank whats app">
+      <created>1609982607208</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1609982607208</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,6 +291,7 @@
     <MESSAGE value="experience added" />
     <MESSAGE value="contacts changed and whatsapp added" />
     <MESSAGE value="unused photos deleted" />
-    <option name="LAST_COMMIT_MESSAGE" value="unused photos deleted" />
+    <MESSAGE value="target blank whats app" />
+    <option name="LAST_COMMIT_MESSAGE" value="target blank whats app" />
   </component>
 </project>

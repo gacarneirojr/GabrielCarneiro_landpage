@@ -15,6 +15,7 @@ let mouseOut = (a) => {
     a.style.border = ''
 }
 
+
 hoverAll[0].onmouseover = function () {hoover(hoverAll[0])};
 hoverAll[0].onmouseout = function () {mouseOut(hoverAll[0])};
 

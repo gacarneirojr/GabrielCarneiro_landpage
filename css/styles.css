@@ -27,7 +27,7 @@ a:link, a:visited {
 
 a:hover, a:active {
     color: seashell;
-    border: 2px solid yellow;
+
 }
 
 header .container nav {
@@ -191,6 +191,7 @@ footer .logo {
     display: flex;
     place-items: center;
     place-content: center;
+    flex-direction: column;
 }
 
 .social {

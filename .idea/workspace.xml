@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="Contact area changed">
+    <list default="true" id="c723f24d-fc1e-4610-ac5c-fb8d7551f20b" name="Default Changelist" comment="Contact area fixed for mobile">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
     </list>
@@ -68,7 +68,8 @@
       <workItem from="1609982539039" duration="122000" />
       <workItem from="1610013810895" duration="142000" />
       <workItem from="1610023481159" duration="108000" />
-      <workItem from="1610540280305" duration="8588000" />
+      <workItem from="1610540280305" duration="8700000" />
+      <workItem from="1610563007828" duration="859000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;working on nav header&quot;">
       <created>1609354999862</created>
@@ -252,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610557978302</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Contact area fixed for mobile">
+      <created>1610558821440</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1610558821440</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +280,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="&quot;working on nav header&quot;" />
     <MESSAGE value="&quot;banner&quot;" />
     <MESSAGE value="finishing banner" />
     <MESSAGE value="working on portfolio" />
@@ -297,6 +304,7 @@
     <MESSAGE value="unused photos deleted" />
     <MESSAGE value="target blank whats app" />
     <MESSAGE value="Contact area changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Contact area changed" />
+    <MESSAGE value="Contact area fixed for mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contact area fixed for mobile" />
   </component>
 </project>

@@ -189,7 +189,6 @@ footer .logo {
 
 .contact {
     display: flex;
-    flex-direction: column;
     place-items: center;
     place-content: center;
 }
@@ -216,6 +215,20 @@ footer .logo {
 
 .photo {
     margin-left: 10rem;
+}
+
+@media only screen and (max-width: 500px) {
+    .info {
+        flex-direction: column;
+    }
+    .contact {
+        flex-direction: column;
+    }
+    .photo {
+        padding: 1rem 0;
+        margin: auto;
+
+    }
 }
 
 .photo img {
